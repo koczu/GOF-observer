@@ -1,1 +1,1 @@
-# sternik-gpw
+# GOF-observer
